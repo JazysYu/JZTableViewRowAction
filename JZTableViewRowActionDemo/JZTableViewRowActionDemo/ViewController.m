@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  SwipeToDeleteDemo
+//  JZTableViewRowActionDemo
 //
 //  Created by Jazys on 11/10/15.
 //  Copyright © 2015 Jazys. All rights reserved.
