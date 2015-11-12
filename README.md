@@ -3,7 +3,7 @@ Using UITableViewRowAction on iOS >= 5.0, you can set an image or enable status 
 
 # Overview
 
-![overview](https://raw.githubusercontent.com/JazysYu/JZNavigationExtension/master/Snapshots/JZTableViewRowActionOverview.gif)
+![overview](https://raw.githubusercontent.com/JazysYu/JZTableViewRowAction/master/Snapshots/JZTableViewRowActionOverview.gif)
 
 # Usage
 
