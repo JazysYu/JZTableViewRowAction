@@ -6,10 +6,6 @@
 //  Copyright © 2015 Jazys. All rights reserved.
 //
 
-#if defined(__IPHONE_OS_VERSION_MIN_REQUIRED) && __IPHONE_OS_VERSION_MIN_REQUIRED >= __IPHONE_8_0
-#error "JZTableViewRowAction must be compiled under iOS8 SDK at least"
-#endif
-
 #import <Foundation/Foundation.h>
 #import <UIKit/UITableView.h>
 #import <objc/runtime.h>
